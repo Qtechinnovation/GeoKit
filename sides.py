@@ -1,5 +1,3 @@
-import math
-
 def calculate_result():
     print("N-Sides Calculator")
     num = float(input("Enter angle measure: "))
@@ -15,5 +13,6 @@ def calculate_result():
             print("Error: The shape is not a regular polygon.")
         else:
             print("Your polygon has", abs(int(result)), "sides:")
+
 
 calculate_result()

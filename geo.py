@@ -1,5 +1,6 @@
 import os
 
+
 def main():
     while True:
         command = input("Enter a command: ")
@@ -13,6 +14,7 @@ def main():
             break
         else:
             print("Unknown command. Valid commands: sides (finds the number of sides from the measure of a single interior angle of a regular polygon), angles (finds the measure of a single interior angle from the number of sides of a regular polygon), measures (finds the sum of the measures of the interior angles of a polygon)")
+
 
 if __name__ == "__main__":
     main()

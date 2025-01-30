@@ -6,7 +6,7 @@ setup(
     version="1.0",
     description="A little collection of python scripts to help with high school geometry.",
     author="Qtechinnovation",
-    author_email="qtechinnovation@gmail.com",
+    author_email="00houses-garbles@icloud.com",
     packages=setuptools.find_packages(),
     entry_points={
         "console_scripts": [

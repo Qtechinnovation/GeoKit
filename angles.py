@@ -8,4 +8,5 @@ def calculate_angles():
         print("Exterior Angle:", exterior_angle)
         print("Interior Angle:", interior_angle)
 
+
 calculate_angles()
